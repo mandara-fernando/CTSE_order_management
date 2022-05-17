@@ -6,6 +6,6 @@ COPY . .
 
 RUN npm i
 
-EXPOSE 8070
+EXPOSE 8071
 
 CMD ["node", "server.js"]
